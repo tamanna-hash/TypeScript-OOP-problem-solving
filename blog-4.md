@@ -6,7 +6,7 @@ Object-Oriented Programming (OOP) is a way of organizing code by grouping data a
 
 It helps you build clean and reusable systems, based on four main pillars: Encapsulation, Inheritance, Polymorphism, and Abstraction.
 
-# OOP Principles in TypeScript
+## OOP Principles in TypeScript
 
 ## Encapsulation
 
